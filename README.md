@@ -99,22 +99,22 @@
 <p align="center">
 
   <a href="mailto:ankii4899@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40" alt="Portfolio"/>
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Portfolio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/theank1.t" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
   </a>
 
 </p>
@@ -162,12 +162,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj4899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitraj4899&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ankitraj4899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
+    height="180"
+    alt="Ankit's GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj4899&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitraj4899&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitraj4899&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
