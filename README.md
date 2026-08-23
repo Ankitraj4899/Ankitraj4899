@@ -36,65 +36,57 @@
 
 ## 📫 Let's Connect
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="mailto:ankii4899@gmail.com">
-        <img
-          src="https://cdn.simpleicons.org/gmail/EA4335"
-          width="42"
-          height="42"
-          alt="Email"
-        />
-      </a>
-      <br>
-      <br>
-      <a href="mailto:ankii4899@gmail.com">Email</a>
-    </td>
+<p align="center">
+  <a href="mailto:ankii4899@gmail.com">
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="42"
+      height="42"
+      alt="Email"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-        <img
-          src="https://cdn.simpleicons.org/googlechrome/4285F4"
-          width="42"
-          height="42"
-          alt="Portfolio"
-        />
-      </a>
-      <br>
-      <br>
-      <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">Portfolio</a>
-    </td>
+  <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      width="42"
+      height="42"
+      alt="Portfolio"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          width="42"
-          height="42"
-          alt="LinkedIn"
-        />
-      </a>
-      <br>
-      <br>
-      <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">LinkedIn</a>
-    </td>
+  <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      width="42"
+      height="42"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://instagram.com/theank1.t" target="_blank">
-        <img
-          src="https://cdn.simpleicons.org/instagram/E4405F"
-          width="42"
-          height="42"
-          alt="Instagram"
-        />
-      </a>
-      <br>
-      <br>
-      <a href="https://instagram.com/theank1.t" target="_blank">Instagram</a>
-    </td>
-  </tr>
-</table>
+  <a href="https://instagram.com/theank1.t" target="_blank">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="42"
+      height="42"
+      alt="Instagram"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:ankii4899@gmail.com">Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://instagram.com/theank1.t" target="_blank">Instagram</a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -199,8 +191,4 @@
 
 <p align="center">
   💡 <i>I enjoy turning complex problems into clean, scalable and practical solutions.</i>
-</p> 
-
-
-
-
+</p>
