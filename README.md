@@ -13,12 +13,12 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer (MERN Stack)  
+- 💻 Full Stack Developer 
 - 🧠 Strong in DSA & Problem Solving  
 - 🌱 Currently learning **Next.js & System Design**
 
 📫 **Reach me at:**  
-👉 **ankitrajbarhiya51@gmail.com**
+👉 **ankii4899@gmail.com**
 
 ---
 
@@ -74,7 +74,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
-<h3 align="center">Full Stack Developer | MERN | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
   <img src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif" width="500"/>
@@ -88,12 +88,15 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer (MERN Stack)  
-- 🧠 Strong in **DSA & Problem Solving**  
-- 🌱 Learning **Next.js & System Design**
+- 👨‍💻 Full Stack Developer who loves turning ideas into **real-world web applications**
+- ⚡ Experienced with the **Full Stack** and modern JavaScript technologies
+- 🧠 Passionate about **DSA, problem solving, and writing efficient code**
+- 🌱 Currently learning **Next.js, TypeScript & System Design**
+- 🔨 I enjoy building projects that solve **real-world problems**
+- 🎯 Always looking for opportunities to **learn, build, and grow**
 
 📫 **Email:**  
-👉 **ankitrajbarhiya51@gmail.com**
+👉 **ankii4899@gmail.com**
 
 ---
 📫 **Portfolio:**  
@@ -106,8 +109,11 @@
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-</p>
 
+  <a href="https://instagram.com/theank1.t" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
+  </a>
+</p>
 ---
 
 ## 🛠️ Languages & Tools
@@ -129,7 +135,7 @@
 
 ## 📈 GitHub Activity
 
-![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ankit4899&theme=github-dark)
+![Ankit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankitraj4899&theme=github-dark)
 
 ---
 
