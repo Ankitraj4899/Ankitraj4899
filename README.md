@@ -5,11 +5,18 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitraj4899&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Ankitraj4899&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
-  <img src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif" width="500" alt="Coding Animation"/>
+  <img
+    src="https://brandonchan.ca/images/posts/nightcoding/nightcodingcolor.gif"
+    width="500"
+    alt="Coding Animation"
+  />
 </p>
 
 ---
@@ -30,24 +37,45 @@
 ## 📫 Let's Connect
 
 <p align="center">
+
   <a href="mailto:ankii4899@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email"/>
+    <img
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+      width="40"
+      alt="Email"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+    
 
   <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Portfolio"/>
+    <img
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      width="40"
+      alt="Portfolio"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+    
 
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      width="40"
+      alt="LinkedIn"
+    />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+
+    
 
   <a href="https://instagram.com/theank1.t" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="40"
+      alt="Instagram"
+    />
   </a>
+
 </p>
 
 <p align="center">
@@ -67,35 +95,90 @@
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    width="50"
+    alt="JavaScript"
+  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+ width="50"
+ alt="Python"
+/>
+   
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+ width="50"
+ alt="HTML5"
+/>
+   
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+ width="50"
+ alt="CSS3"
+/>
+
 </p>
 
 ### ⚛️ Frontend
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+    width="50"
+    alt="React"
+  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+ width="50"
+ alt="Next.js"
+/>
+   
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+ width="50"
+ alt="Bootstrap"
+/>
+
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+    width="50"
+    alt="Node.js"
+  />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+ width="50"
+ alt="Express.js"
+/>
+   
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+ width="50"
+ alt="MongoDB"
+/>
+   
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+ width="50"
+ alt="MySQL"
+/>
+
 </p>
 
 ---
@@ -104,21 +187,27 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ankitraj4899&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankitraj4899&theme=tokyonight"
     height="180"
     alt="Ankit's GitHub Stats"
   />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitraj4899&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  &nbsp;&nbsp;&nbsp;
+
+<img
+ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitraj4899&theme=tokyonight"
+ height="180"
+ alt="Top Languages"
+/>
+
 </p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitraj4899&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Ankitraj4899&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
