@@ -44,8 +44,10 @@
       height="42"
       alt="Email"
     />
+    <br>
+    Email
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
     <img
@@ -54,8 +56,10 @@
       height="42"
       alt="Portfolio"
     />
+    <br>
+    Portfolio
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
     <img
@@ -64,8 +68,10 @@
       height="42"
       alt="LinkedIn"
     />
+    <br>
+    LinkedIn
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/theank1.t" target="_blank">
     <img
@@ -74,17 +80,9 @@
       height="42"
       alt="Instagram"
     />
+    <br>
+    Instagram
   </a>
-</p>
-
-<p align="center">
-  <a href="mailto:ankii4899@gmail.com">Email</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://instagram.com/theank1.t" target="_blank">Instagram</a>
 </p>
 
 ---
