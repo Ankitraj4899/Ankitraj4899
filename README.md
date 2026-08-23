@@ -108,10 +108,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankit-raj4899" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/> </a> &nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/theank1.t" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram"/>
