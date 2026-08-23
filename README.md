@@ -74,9 +74,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Ankitraj4899">
-    <img src="https://komarev.com/ghpvc/?username=Ankitraj4899&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ankitraj4899&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -98,22 +96,27 @@
 
 ## 📫 Let's Connect
 
-<p align="left">
+<p align="center">
+
   <a href="mailto:ankii4899@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40" alt="Email"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://ankitraj-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40" alt="Portfolio"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/ankit-raj4899" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/theank1.t" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram"/>
   </a>
+
 </p>
 
 ---
@@ -122,28 +125,36 @@
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" alt="CSS3"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/>
 </p>
 
 ### ⚛️ Frontend
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" alt="Bootstrap"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/>
 </p>
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" alt="MySQL"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
 </p>
 
 ---
@@ -152,7 +163,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankitraj4899&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankitraj4899&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -172,16 +182,17 @@
 
 ## 🚀 Currently
 
-```text
-🔭 Building       → Full Stack Web Applications
-🌱 Learning       → Next.js, TypeScript & System Design
-🧠 Practicing     → DSA & Problem Solving
-💡 Exploring      → Scalable Software Architecture
-🎯 Goal           → Becoming a better Software Engineer
-```
+<p align="center">
+  🔭 Building Full Stack Web Applications &nbsp; • &nbsp;
+  🌱 Learning Next.js & TypeScript &nbsp; • &nbsp;
+  🧠 Practicing DSA &nbsp; • &nbsp;
+  💡 Exploring System Design
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> 💡 I enjoy turning complex problems into clean, scalable and practical solutions.
+<p align="center">
+  💡 <i>I enjoy turning complex problems into clean, scalable and practical solutions.</i>
+</p>
